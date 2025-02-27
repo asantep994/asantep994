@@ -13,7 +13,7 @@ My journey in technology started in a different field, but my passion for cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/asantep994/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -49,5 +49,7 @@ My journey in technology started in a different field, but my passion for cybers
 </div>
 
 ## Projects
+- <a href="https://github.com/asantep994/Detection-Lab/tree/main">Detection Lab</a>
 - Network Segmentatation
+  
 
